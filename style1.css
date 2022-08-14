@@ -71,8 +71,16 @@ main {
   main{
     display: block;
     width:100%;
+    
   }
   
+  .step-box {
+    width:90%;
+    margin-bottom:20px;
+    margin:0 auto;
+  }
   
-  
+  .step-box:last-child {
+    margin-bottom:0;
+  }
 }
