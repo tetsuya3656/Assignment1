@@ -71,16 +71,16 @@ main {
   main{
     display: block;
     width:100%;
-    
   }
   
   .step-box {
     width:90%;
-    margin-bottom:20px;
     margin:0 auto;
+    margin-bottom:20px;
   }
   
   .step-box:last-child {
-    margin-bottom:0;
+    margin-bottom:0px;
+    margin:0 auto;
   }
 }
